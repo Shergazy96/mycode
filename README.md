@@ -1,2 +1,2 @@
 # README.md
-my First code Python
+my first python code in github
